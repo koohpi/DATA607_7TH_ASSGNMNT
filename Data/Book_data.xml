@@ -15,7 +15,7 @@
    <book category="1st book">
       <title lang="en">Build the Life You Want: The Art and Science of Getting Happier</title>
       <author>Arthur C. Brooks, Oprah Winfrey, et al.</author>
-      <Release_date>2023-09-12T00:00:00.000</Release_date>
+      <Release_date>12-Sep-23</Release_date>
       <Language>English</Language>
       <ASIN>B0C4V8H4CX</ASIN>
       <Version>Unabridged</Version>
@@ -26,7 +26,7 @@
    <book category="2nd book">
       <title lang="en">Harry Potter and the Sorcerer's Stone, Book 1</title>
       <author>J.K. Rowling</author>
-      <Release_date>2015-11-20T00:00:00.000</Release_date>
+      <Release_date>20-Nov-15</Release_date>
       <Language>English</Language>
       <ASIN>B017V4IMVQ</ASIN>
       <Version>Unabridged</Version>
@@ -37,7 +37,7 @@
    <book category="3rd book">
       <title lang="en">The Handmaid's Tale</title>
       <author>Margaret Atwood</author>
-      <Release_date>2012-01-01T00:00:00.000</Release_date>
+      <Release_date>1-Sep-12</Release_date>
       <Language>English</Language>
       <ASIN>B008X6SZ0K</ASIN>
       <Version>Unabridged</Version>
