@@ -589,7 +589,7 @@ Happier</td>
 <tr class="odd">
 <td align="left">The Handmaid’s Tale</td>
 <td align="left">Margaret Atwood</td>
-<td align="left">01-Jan-12</td>
+<td align="left">1-Sep-12</td>
 <td align="left">English</td>
 <td align="left">B008X6SZ0K</td>
 <td align="left">Unabridged</td>
@@ -667,7 +667,7 @@ print(&quot;Let&#39;s compare loaded xlsx and json&quot;)</code></pre>
   print(&quot;Loaded json and xlsx files are not identical and the differeces are saved in json_vs_csv&quot;)
   json_vs_csv &lt;- setdiff(Read_json_DF[,1:7], Read_xlsx_DF[,1:7])
 }</code></pre>
-<pre><code>## [1] &quot;Loaded json and xlsx files are not identical and the differeces are saved in json_vs_csv&quot;</code></pre>
+<pre><code>## [1] &quot;The loaded xlsx and json are the same&quot;</code></pre>
 <div id="convert-xml-file-to-df" class="section level3">
 <h3>Convert XML file to DF</h3>
 <p>As seen previously, reading XML and HTML files into RStudio requires
@@ -739,16 +739,16 @@ selected_columns &lt;- dplyr::select(Read_XML_DF, 1:7)
 print(&quot;This is the data loaded from XML file to RStudio&quot;)</code></pre>
 <pre><code>## [1] &quot;This is the data loaded from XML file to RStudio&quot;</code></pre>
 <pre class="r"><code>knitr::kable(selected_columns)</code></pre>
-<table style="width:100%;">
+<table>
 <colgroup>
 <col width="1%" />
-<col width="34%" />
-<col width="21%" />
-<col width="13%" />
-<col width="4%" />
+<col width="36%" />
+<col width="23%" />
+<col width="7%" />
 <col width="5%" />
-<col width="5%" />
-<col width="11%" />
+<col width="6%" />
+<col width="6%" />
+<col width="12%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -768,7 +768,7 @@ print(&quot;This is the data loaded from XML file to RStudio&quot;)</code></pre>
 <td align="left">Build the Life You Want: The Art and Science of Getting
 Happier</td>
 <td align="left">Arthur C. Brooks, Oprah Winfrey, et al.</td>
-<td align="left">2023-09-12T00:00:00.000</td>
+<td align="left">12-Sep-23</td>
 <td align="left">English</td>
 <td align="left">B0C4V8H4CX</td>
 <td align="left">Unabridged</td>
@@ -778,7 +778,7 @@ Happier</td>
 <td align="left">3</td>
 <td align="left">Harry Potter and the Sorcerer’s Stone, Book 1</td>
 <td align="left">J.K. Rowling</td>
-<td align="left">2015-11-20T00:00:00.000</td>
+<td align="left">20-Nov-15</td>
 <td align="left">English</td>
 <td align="left">B017V4IMVQ</td>
 <td align="left">Unabridged</td>
@@ -788,7 +788,7 @@ Happier</td>
 <td align="left">4</td>
 <td align="left">The Handmaid’s Tale</td>
 <td align="left">Margaret Atwood</td>
-<td align="left">2012-01-01T00:00:00.000</td>
+<td align="left">1-Sep-12</td>
 <td align="left">English</td>
 <td align="left">B008X6SZ0K</td>
 <td align="left">Unabridged</td>
@@ -900,7 +900,7 @@ print(&quot;This is the data loaded from HTML file to RStudio&quot;)</code></pre
 <td align="left">Build the Life You Want: The Art and Science of Getting
 Happier</td>
 <td align="left">Arthur C. Brooks, Oprah Winfrey, et al.</td>
-<td align="left">9/12/2023</td>
+<td align="left">12-Sep-23</td>
 <td align="left">English</td>
 <td align="left">B0C4V8H4CX</td>
 <td align="left">Unabridged</td>
@@ -909,7 +909,7 @@ Happier</td>
 <tr class="even">
 <td align="left">Harry Potter and the Sorcerer’s Stone, Book 1</td>
 <td align="left">J.K. Rowling</td>
-<td align="left">11/20/2015</td>
+<td align="left">20-Nov-15</td>
 <td align="left">English</td>
 <td align="left">B017V4IMVQ</td>
 <td align="left">Unabridged</td>
@@ -918,7 +918,7 @@ Happier</td>
 <tr class="odd">
 <td align="left">The Handmaid’s Tale</td>
 <td align="left">Margaret Atwood</td>
-<td align="left">01/01/2012</td>
+<td align="left">1-Sep-12</td>
 <td align="left">English</td>
 <td align="left">B008X6SZ0K</td>
 <td align="left">Unabridged</td>
