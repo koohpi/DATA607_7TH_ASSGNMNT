@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is written by Koohyar Pooladvand for DATA 607 -->
+<KP_Book_Table>
+   <book category="Table_Title">
+      <title lang="en">Title</title>
+      <author>Authors</author>
+      <Release_date>Release Date</Release_date>
+      <Language>Language</Language>
+      <ASIN>ASIN</ASIN>
+      <Version>Version</Version>
+      <Publisher>Publisher</Publisher>
+      <Summary>Summary</Summary>
+      <Link>Link</Link>
+   </book>
+   <book category="1st book">
+      <title lang="en">Build the Life You Want: The Art and Science of Getting Happier</title>
+      <author>Arthur C. Brooks, Oprah Winfrey, et al.</author>
+      <Release_date>2023-09-12T00:00:00.000</Release_date>
+      <Language>English</Language>
+      <ASIN>B0C4V8H4CX</ASIN>
+      <Version>Unabridged</Version>
+      <Publisher>Penguin Audio</Publisher>
+      <Summary><![CDATA[INSTANT #1 NEW YORK TIMES BESTSELLER, In Build the Life You Want, Arthur C. Brooks and Oprah Winfrey invite you to begin a journey toward greater happiness no matter how challenging your circumstances. Drawing on cutting-edge science and their years of helping people translate ideas into action, they show you how to improve your life right now instead of waiting for the outside world to change. With insight, compassion, and hope, Brooks and Winfrey reveal how the tools of emotional self-management can change your life—immediately. They recommend practical, research-based practices to build the four pillars of happiness: family, friendship, work, and faith. And along the way, they share hard-earned wisdom from their own lives and careers as well as the witness of regular people whose lives are joyful despite setbacks and hardship. Equipped with the tools of emotional self-management and ready to build your four pillars, you can take control of your present and future rather than hoping and waiting for your circumstances to improve. Build the Life You Want is your blueprint for a better life.]]></Summary>
+      <Link>https://www.amazon.com/Build-Life-You-Want-Science/dp/B0C4V8H4CX/ref=sr_1_1?adgrpid=1341405920979738</Link>
+   </book>
+   <book category="2nd book">
+      <title lang="en">Harry Potter and the Sorcerer's Stone, Book 1</title>
+      <author>J.K. Rowling</author>
+      <Release_date>2015-11-20T00:00:00.000</Release_date>
+      <Language>English</Language>
+      <ASIN>B017V4IMVQ</ASIN>
+      <Version>Unabridged</Version>
+      <Publisher>Pottermore Publishing</Publisher>
+      <Summary><![CDATA[Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms. a lion, an eagle, a badger and a snake surrounding a large letter 'H'. Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin! Having become classics of our time, the Harry Potter stories never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new listeners.]]></Summary>
+      <Link>https://www.amazon.com/Harry-Potter-Sorcerers-Stone-Book/dp/B017V4IMVQ/ref=sr_1_1?crid=15866N00NS495</Link>
+   </book>
+   <book category="3rd book">
+      <title lang="en">The Handmaid's Tale</title>
+      <author>Margaret Atwood</author>
+      <Release_date>2012-01-01T00:00:00.000</Release_date>
+      <Language>English</Language>
+      <ASIN>B008X6SZ0K</ASIN>
+      <Version>Unabridged</Version>
+      <Publisher>Audible Studios</Publisher>
+      <Summary><![CDATA[Audie Award, Fiction, 2013 Margaret Atwood's popular dystopian novel The Handmaid's Tale explores a broad range of issues relating to power, gender, and religious politics. Multiple Golden Globe award-winner Claire Danes (Romeo and Juliet, The Hours) gives a stirring performance of this classic in speculative fiction, one of the most powerful and widely read novels of our time. After a staged terrorist attack kills the President and most of Congress, the government is deposed and taken over by the oppressive and all-controlling Republic of Gilead. Offred, now a Handmaid serving in the household of the enigmatic Commander and his bitter wife, can remember a time when she lived with her husband and daughter and had a job, before she lost even her own name. Despite the danger, Offred learns to navigate the intimate secrets of those who control her every move, risking her life in breaking the rules in hopes of ending this oppression. Cover Art by Fred Marcellino. Used with permission of Pippin Properties, Inc.]]></Summary>
+      <Link>https://www.amazon.com/The-Handmaids-Tale-Claire-Danes-audiobook/dp/B008X6SZ0K/ref=sr_1_1?crid=36OXH5RWJVAXT</Link>
+   </book>
+</KP_Book_Table>
